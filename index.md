@@ -12,6 +12,17 @@ Want to get in touch? I can be reached on [LinkedIn](https://www.linkedin.com/in
 
 ### Projects
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
