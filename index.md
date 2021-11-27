@@ -19,11 +19,14 @@ Want to get in touch? I can be reached on **[LinkedIn](https://www.linkedin.com/
 ## Projects
 
 ### My Bus Tracker - Android App
+
+#### Project Description
+
+This app has been decoupled from an academic group project in which each participant was responsible for one standalone app of four presented as a bundle. This decoupled app comprises my own work.
+The app allows the user to save their commonly used bus routes and call up current details about the next bus using the local (OC Transpo) API.
+
 <details>
     <summary><b>Details</b></summary>
-    <h5>Project Description</h5>
-    <p>This app has been decoupled from an academic group project in which each participant was responsible for one standalone app of four presented as a bundle. This decoupled app comprises my own work.</p>
-    <p>The app allows the user to save their commonly used bus routes and call up current details about the next bus using the local (OC Transpo) API.</p>
     <p>Main features include:</p>
     <ul>
         <li>Ability to search for routes by stop number.</li>
