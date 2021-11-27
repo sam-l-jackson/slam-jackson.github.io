@@ -18,10 +18,9 @@ Want to get in touch? I can be reached on **[LinkedIn](https://www.linkedin.com/
 
 ## Projects
 
+### My Bus Tracker - Android App
 <details>
-    <summary>
-        <h4>Local Bus Tracker - Android</h4>
-    </summary>
+    <summary><b>Details</b></summary>
     <h5>Project Description</h5>
     <p>This app has been decoupled from an academic group project in which each participant was responsible for one standalone app of four presented as a bundle. This decoupled app comprises my own work.</p>
     <p>The app allows the user to save their commonly used bus routes and call up current details about the next bus using the local (OC Transpo) API.</p>
@@ -34,10 +33,9 @@ Want to get in touch? I can be reached on **[LinkedIn](https://www.linkedin.com/
     </ul>
 </details>
 
+### My Bus Tracker - Android App
 <details>
-    <summary>
-        <h4>TBD 1</h4>
-    </summary>
+    <summary><b>Details</b></summary>
     <h5>Project Description</h5>
 </details>
 
