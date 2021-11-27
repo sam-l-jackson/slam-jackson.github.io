@@ -14,22 +14,22 @@ I'm **currently seeking a permanent full-time position starting September 2022**
 
 ## Contact Info
 
-Want to get in touch? I can be reached on [LinkedIn](https://www.linkedin.com/in/samanthaljackson/) any time.
+Want to get in touch? I can be reached on **[LinkedIn](https://www.linkedin.com/in/samanthaljackson/)** any time.
 
 ## Projects
 
 <details>
     <summary>
-    ##Local Bus Tracker
+        <h1>Local Bus Tracker - Android App in Java</h1>
     </summary>
-  
-## Heading
+    <h2>Heading</h2>
+</details>
 
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-
+<details>
+    <summary>
+        <h1>TBD 1</h1>
+    </summary>
+    <h2>Heading</h2>
 </details>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
