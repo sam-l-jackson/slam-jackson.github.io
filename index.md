@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## Sam Jackson
 
-You can use the [editor on GitHub](https://github.com/slam-jackson/slam-jackson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a multi-disciplinary software developer with a background in business analysis, project coordination, software training and product ownership. I'm not yet specialized in a particular language or framework but have dabbled in Java (Eclipse), HTML/CSS, Bootstrap, JavaScript, PHP (Atom), and SQL (Postgres / Access / MySQL / SQL Server / Oracle).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm reliable, a good communicator, and I care a great deal about producing good quality work.
 
-### Markdown
+Growth is very important to me - I ask a lot of questions and listen closely to the answers, and I believe there is always room to improve. If the team needs a skill, I'm happy to learn and, when appropriate, happy to teach.
+
+I'm **currently seeking a permanent full-time position starting September 2022**. I'd prefer to work majority remotely on a development team, and have several years experience working successfully (as a BA) with remote software development teams in Canada and abroad.
+
+Want to get in touch? I can be reached on [LinkedIn](https://www.linkedin.com/in/samanthaljackson/) any time.
+
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
